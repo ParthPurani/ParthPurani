@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am software engineer based in India, I just started working some open source projects.
+I am software engineer based in India, I just started working on some open source projects.
 <!--
 **ParthPurani/ParthPurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
