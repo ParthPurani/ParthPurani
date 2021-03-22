@@ -2,14 +2,15 @@
 
 I am software engineer based in India, I just started working on some open source projects.
 
-Platform: Azure, AWS.
+Platform: Azure, AWS.</br>
 Language: C#, python and C++.
+Intrest: Serverless, Kubernetes and PWA
 <!--
 **ParthPurani/ParthPurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on project that helps people
 - 💬 Ask me about cloud technologies
 - 📫 How to reach me: parthpurani1997@gmail.com
