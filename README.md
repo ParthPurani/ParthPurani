@@ -3,7 +3,7 @@
 I am software engineer based in India, I just started working on some open source projects.
 
 Platform: Azure, AWS.</br>
-Language: C#, python and C++.
+Language: C#, python and C++.</br>
 Intrest: Serverless, Kubernetes and PWA
 <!--
 **ParthPurani/ParthPurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
