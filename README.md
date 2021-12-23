@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: parthpurani1997@gmail.com
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ParthPurani&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for ParthPurani">
+
+
+### Badges
+
+<img align="left" alt="MS Developer Associate" width="150px" src="https://user-images.githubusercontent.com/26428719/147209122-b3345c3f-c910-4907-9246-3a2e594e5fd2.png" />
