@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am software engineer based in India, I just started working on some open source projects.
+I am techie based in India, I just started working on some open source projects.
 
 Platform: Azure, AWS.</br>
 Language: C#, python and C++.</br>
